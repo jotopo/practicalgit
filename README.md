@@ -1,7 +1,7 @@
 # practicalgit
 a
 b
-nieuwe regel\n
+nieuwe regel
 nog een nieuwe regel
 nog een nieuwe regel
 nog een nieuwe regel
