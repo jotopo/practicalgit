@@ -1,8 +1,8 @@
 # practicalgit
 a
 b
-nieuwe regel
-nog een nieuwe regel
-nog een nieuwe regel
-nog een nieuwe regel
-nog een nieuwe regel
+nieuwe regel\n
+nog een nieuwe regel\n
+nog een nieuwe regel\n
+nog een nieuwe regel\n
+nog een nieuwe regel\n
